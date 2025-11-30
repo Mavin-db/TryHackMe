@@ -1,3 +1,4 @@
 Sun Oct 12 06:54:22 PM AEST 2025
 Completed 
--  what is Networking
+##What is Networking? - Networking Basics
+This explores fundamental concepts, defining networks as simply interconnected things, whether they are technological devices in computing (from two to billions) or real-world systems like a city's public transportation. The sources highlight that the **internet** is a massive network composed of many smaller **private networks** and larger **public networks** joining them, with the World Wide Web invented by Tim Berners-Lee in 1990. A key focus is device identification, where hosts are labeled using an **IP address** (Internet Protocol address), which can change and helps route communication, and a **MAC address** (Media Access Control address), which is a unique, factory-assigned identifier. The evolution from IPv4 to **IPv6** to tackle the shortage of public addresses and notes that MAC addresses can sometimes be **spoofed**. Also the introduction of **Ping**, a fundamental network tool that utilises the **ICMP** (Internet Control Message Protocol) to test the existence and measure the performance of a connection between devices.
