@@ -47,7 +47,7 @@ This module’s breakdown of TLDs, Authoritative servers, and record types (A, A
 ### 02_HTTP_in_Detail
 This felt like home. I’m familiar with GET, POST, and Status Codes. However, looking at headers like `User-Agent` and `Set-Cookie` through a security lens, specifically for session hijacking or browser identification, was a valuable shift in perspective.
 
-Check out my cURL repo for more. 
+Check out my [cURL-API-labs repo](https://github.com/Mavin-db/cURL-API-labs) for more. 
 
 ### 03_How_Websites_Work
 The sections on HTML and JS injection were particularly relevant. I’ve built many forms, but this module reinforced the "Golden Rule" of development: **Never trust user input.** The practical on Sensitive Data Exposure (finding passwords in comments) is a huge mistake. I've seen even experienced developers leave sensitive info on the page.
