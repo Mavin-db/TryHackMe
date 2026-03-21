@@ -10,6 +10,6 @@ updated github files and completed Network fundamentals
 ## Currently on the SOC-1 pathway & some rooms of Jr Penetration Tester & Security Engineer. (March 2026)
 I have continued through the pathways maintaining my streak. Try Hack Me at present is revision of prevision pathways as i prepare for the certifications. SEC0 and SEC1. aas I don't really need to do SEC0, i thought it would be a great opportunity to see how the THM exams are done and to also check in on my knowledge. 
 
-In February I dedicated my time to The Google Cyber Certificate. I spent 3 weeks every day to complete it. 
-IN March I dedicated my time to the GRC Mastery course and ISO27001 lead auditor certicate. 
+In February I dedicated my time to The Google Cyber Certificate. I spent 3 weeks every day to complete it.
+In March I dedicated my time to the GRC Mastery course and ISO27001 lead auditor certicate. 
 
