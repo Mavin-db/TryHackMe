@@ -13,3 +13,5 @@ I have continued through the pathways maintaining my streak. Try Hack Me at pres
 In February I dedicated my time to The Google Cyber Certificate. I spent 3 weeks every day to complete it.
 In March I dedicated my time to the GRC Mastery course and ISO27001 lead auditor certicate. 
 
+## SEC0 Exam. (March 2026)
+completed the SEC0 certificate - result 600/600. 
